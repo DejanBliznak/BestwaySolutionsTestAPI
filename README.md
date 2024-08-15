@@ -19,6 +19,10 @@ This project is a .NET 6 Web API that interacts with the Fruityvice API to fetch
 - Newtonsoft.Json for JSON serialization/deserialization
 
 ## Getting Started
+- Clone repository
+- Select IIS Express from Visual Studio toolbar and click play
+- Api will run on this url https://localhost:44336/swagger/index.html
+
 
 ### Prerequisites
 
